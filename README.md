@@ -1,11 +1,11 @@
 # learn-from-assignments
 
 
-## Assignment one ( React with filter )
+## Assignment 1 ( React with filter )
 Sandbox link:
 
-## Assignment two ( Dashboard clone html + css )
+## Assignment 2 ( Dashboard clone html + css )
 Sandbox link: https://codesandbox.io/s/assignment-dashboard-clone-2-w4jfrv?file=/style.css
 
-## Assignment three (blog cards clone html +css )
+## Assignment 3 (blog cards clone html +css )
 Sandbox link: 
